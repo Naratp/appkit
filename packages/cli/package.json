@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "5.4.1",
-    "figlet": "1.8.0",
+    "figlet": "1.8.1",
     "inquirer": "12.4.2",
     "tiged": "2.12.7"
   },
